@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/p5": "^0.9.1",
+    "p5": "^1.2.0"
+  }
+}
